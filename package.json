@@ -17,6 +17,9 @@
     "keyboard",
     "spacer"
   ],
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
   "author": "Andrew Hurst",
   "license": "MIT",
   "bugs": {
